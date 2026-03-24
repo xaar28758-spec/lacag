@@ -28,12 +28,4 @@ python main.py
 ### Configuration
 In `config.py`, you can toggle `HEADLESS = False` if you want to watch the browser window (good for debugging).
 
-### Troubleshooting
-If you see "Browser/Playwright" errors:
-1. Ensure dependencies are installed: `pip install -r requirements.txt`
-2. Install browsers: `playwright install chromium`
 
-## Logic
-The analysis is based on a conservative model that prioritizes:
-1. **Safety**: Zero tolerance for liquidity removal or extreme concentration.
-2. **Behavior**: Favors steady buying and fast sell absorption over hype.
