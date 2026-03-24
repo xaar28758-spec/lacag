@@ -1,4 +1,4 @@
-# Meme Coin Launch Analyzer
+y# Meme Coin Launch Analyzer
 
 A conservative, risk-aware analyzer for early-stage meme coin launches on Solana (via DexScreener).
 
